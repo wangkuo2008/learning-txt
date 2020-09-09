@@ -4,4 +4,5 @@ Git has a mutable index called stage
 Git tracks changes
 Creating a new branch is quick.
 Creating a NEWW branch is quick & simple.
-Creating a new branch is quick And simple.
+Creating a new branch is quick And simple
+hellow.
